@@ -140,6 +140,15 @@ in a language
 only lonely rooms
 seem to understand.`,
       },
+      {
+
+        title: "After the Storm",
+        body: `The storm left behind
+a silence so loud,
+it echoed the things
+we never said out loud.`,
+      
+      }
     ],
   },
   {
